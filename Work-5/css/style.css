@@ -12,6 +12,7 @@ body * {
 	padding: 20px 15px;
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 	align-items: center;
 	border-bottom: 1px solid #b1b1b1;
 }
